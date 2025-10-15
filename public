@@ -1,0 +1,6 @@
+public/
+│
+├── images/          → para todas las imágenes del sitio (logos, productos, fondos, etc.)
+├── icons/           → para íconos SVG o PNG pequeños
+├── uploads/         → si el sitio permite subir o mostrar archivos del usuario
+└── videos/          → para clips cortos, intros o animaciones
