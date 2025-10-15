@@ -1,0 +1,8 @@
+pages/
+  index.js
+public/
+  (imágenes, íconos, etc.)
+components/
+data/
+next.config.js
+package.json
