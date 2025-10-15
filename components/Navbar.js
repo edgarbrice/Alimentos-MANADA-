@@ -21,12 +21,10 @@ export default function Navbar() {
       }}>
         <Link href="/" style={{display:"flex",alignItems:"center",gap:10}}>
           <img
-            src="/images/logo-manada-oficial.png"
-            alt="MANADA"
-            width="36"
-            height="36"
-            style={{display:"block"}}
-          />
+  src="/images/logo-manada-oficial.png"
+  alt="MANADA"
+  style={{ height: 40, width: "auto", display: "block" }}
+/>
           <strong>MANADA</strong>
         </Link>
 
